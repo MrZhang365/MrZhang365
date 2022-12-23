@@ -11,8 +11,5 @@
 
 ## 友好的链接  
 - [XChat](https://xq.kzw.ink/)  
-- [TanChat](https://tanchat.fun/)  
-- [HackChat](https://hack.chat/)
 - [纸片君ee的个人主页](https://paperee.tk/)  
 - [Blaze的个人主页](https://blaze.sqj.repl.co/)  
-- [Maggie的个人主页](https://thz.cool/)
