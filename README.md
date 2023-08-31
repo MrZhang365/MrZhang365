@@ -3,7 +3,7 @@
 我是小张，正在上初三。  
 会一些Python3和Node.js。  
 参与了 [XChat](https://xq.kzw.ink/) 项目  
-热爱编程~~，梦想成为一名程序员~~。  
+热爱编程 ~~，梦想成为一名程序员~~。  
 
 ## 个人产品  
 - [小张软件](https://zhangsoft.cf/)  
