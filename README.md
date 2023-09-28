@@ -1,15 +1,15 @@
-## 简介
-你好，远方的读者！  
-我是小张，正在上初三。  
-会一些Python3和Node.js。  
-参与了 [XChat](https://xq.kzw.ink/) 项目  
-热爱编程 ~~，梦想成为一名程序员~~。  
+# MrZhang365 的属性  
+hi yo，我是MrZhang365，一位正在理想的高中读高一的网络编程爱好者，专注于网络开发，致力于为更多开发者提供便利。  
+擅长nodejs，会一些HTML和JS，CSS基本一窍不通，但好在会用一些前端UI库。  
 
-## 个人产品  
-- [小张软件](https://zhangsoft.cf/)  
-- Zhang系列Bot  
+# MrZhang365 宝贵的日志  
+2022年3月下旬：加入 hack.chat，认识 [纸片君ee](https://paperee.guru) 等好友，登上了网络开发的列车。  
+2022年4月：通过XBot（引流机器人）来到 XChat（非黄色网站，只是重名，和HC类似），为站长找到了不少BUG，后来自学 nodejs以及一些前端相关的语言，不久加入XC开发行列，一边开发一边学习。  
+2022年8月：因识别码经济问题，和HC的老朋友们决裂，彻底加入XC，走上了错误的道路。  
+2023年1月：逐渐认识到了自己以及整件事情，和XC决裂，重新加入HC，并建立ZHC。  
+2023年4月：XC倒闭。  
+2023年9月末：更新这个文件。  
 
-## 友好的链接  
-- [XChat](https://xq.kzw.ink/)  
-- [纸片君ee的个人主页](https://paperee.tk/)  
-- [Blaze的个人主页](https://blaze.sqj.repl.co/)  
+# MrZhang365 的树洞  
+[纸片君ee的博客](https://paperee.guru)  
+[DQJL的博客](https://dqj.lol/)
